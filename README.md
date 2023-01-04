@@ -31,4 +31,5 @@ Finally, the user is given the option of resuming the program or not.
 * new_york_city.csv -  a dataset containing all bikeshare information for the city of New York provided by Udacity.
 
 * washington.csv - a dataset containing all bikeshare information for the city of Washington provided by Udacity. 
+
 ***Note: This does not include the 'Gender' or 'Birth Year' data.***
