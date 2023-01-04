@@ -5,3 +5,7 @@
 This project focuses on using the pandas library and basic statistical techniques to do descriptive analysis on the bikeshare data from Chicago, Washington, and New York City, three major U.S. cities, in order to display data such as the most popular days or stations.
 # Running the program
 To run this program, enter 'python bikeshare.py' into your terminal. On a Windows 10 PC, I utilise Anaconda's command prompt.
+# Program Details
+The application requires user input for the city (e.g., Chicago), month for which data is desired (e.g., January; also provides a 'all' option), and day for which data is desired (e.g., Monday; also includes a 'all' option).
+
+After receiving user input, it proceeds to ask the user whether they want to examine the raw data (5 rows of data at first) or not. Following the input, the application prints the following information:
