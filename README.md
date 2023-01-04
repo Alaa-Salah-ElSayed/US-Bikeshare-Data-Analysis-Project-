@@ -10,8 +10,8 @@ The application requires user input for the city (e.g., Chicago), month for whic
 
 After receiving user input, it proceeds to ask the user whether they want to examine the raw data (5 rows of data at first) or not. Following the input, the application prints the following information:
 
-Most popular month
-Most popular day
+* Most popular month
+* Most popular day
 Most popular hour
 Most popular start station
 Most popular end station
