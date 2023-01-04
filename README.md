@@ -9,3 +9,18 @@ To run this program, enter 'python bikeshare.py' into your terminal. On a Window
 The application requires user input for the city (e.g., Chicago), month for which data is desired (e.g., January; also provides a 'all' option), and day for which data is desired (e.g., Monday; also includes a 'all' option).
 
 After receiving user input, it proceeds to ask the user whether they want to examine the raw data (5 rows of data at first) or not. Following the input, the application prints the following information:
+
+Most popular month
+Most popular day
+Most popular hour
+Most popular start station
+Most popular end station
+Most popular combination of start and end stations
+Total trip duration
+Average trip duration
+Types of users by number
+Types of users by gender (if available)
+The oldest user (if available)
+The youngest user (if available)
+The most common birth year amongst users (if available)
+Finally, the user is prompted with the choice of restarting the program or not.
