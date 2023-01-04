@@ -24,3 +24,11 @@ After receiving user input, it proceeds to ask the user whether they want to exa
 * The youngest user (if available)
 * The most common birth year amongst users (if available)
 Finally, the user is given the option of resuming the program or not.
+# Project Data
+*** Stored in the data folder *** 
+* chicago.csv -  a dataset containing all bikeshare information for the city of Chicago provided by Udacity..
+
+* new_york_city.csv -  a dataset containing all bikeshare information for the city of New York provided by Udacity.
+
+* washington.csv - a dataset containing all bikeshare information for the city of Washington provided by Udacity. 
+*** Note: This does not include the 'Gender' or 'Birth Year' data.***
